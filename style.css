@@ -15,7 +15,7 @@ p {
 }
 
 table {
-    width: 600px;
+    width: 700px;
     height: 200px;
     margin: auto;
 }
@@ -67,6 +67,7 @@ h2 {
     height:280px;
     margin-top: 200px;
     padding: auto;
+    width: 10%;
 }
 #middlebox{
     float:left;
